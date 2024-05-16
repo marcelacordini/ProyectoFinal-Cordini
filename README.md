@@ -1,8 +1,28 @@
-# React + Vite
+# Ecommerce con React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Curso: React Js Flex
+- Comisión: 60745
+- Profesor: Andrés Pujol
+- Tutor: Andrés Nazzari
+- Alumno: Marcela Cordini
+- Fecha: 15/05/2024
 
-Currently, two official plugins are available:
+## Trabajo Final
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+GitHub: https://github.com/marcelacordini/ProyectoFinal-Cordini
+
+![Gif mostrando la navegación]: https://www.loom.com/share/a678dcbe870943cb87a7a71cecb50ae0?sid=7b032d2f-e82c-4402-98ce-016d56b66db3
+
+
+## Creado con
+
+- [React.js](https://react.dev/)
+- Base de datos: [Firebase](https://firebase.google.com/)
+- Build tool: [Vite](https://vitejs.dev/)
+
+## Ejecutar la aplicación
+
+Una vez instaladas las dependencias, y ejecutada la app estará disponible en el [http://localhost:5173](http://localhost:5173) (o un puerto alternativo)
+
+<hr />
+
