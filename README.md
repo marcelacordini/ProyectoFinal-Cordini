@@ -26,3 +26,13 @@ Una vez instaladas las dependencias, y ejecutada la app estará disponible en el
 
 <hr />
 
+## Manual de Usuario
+
+La APP consiste en un e-commerce para un local expendedor de café al paso. 
+Permite filtrar por categoría, discriminando entre Expreso, Americano y Especiales.
+Una vez seleccionado el café se podrá acceder al detalle para agregar el mismo al carrito, de acuerdo a las cantidades deseadas.
+El stock lo toma de la base de datos y tabmién lo actualiza una vez realizado el check out.
+En caso de no haber más stock no podrá agregar el producto al carrito.
+En caso de acceder al carrito sin haber realizado la compra le advierte al usuario que el mismo está vacío y lo devuelve al inicio.
+Para realizar el check out se exige Nombre, mail, repetición de mail (los que deberán coincidir) y teléfono (numérico) con al menos 5 caracteres. 
+Si surguiera algún error le avisa al usuario, requiriendo ese dato para poder continuar.
